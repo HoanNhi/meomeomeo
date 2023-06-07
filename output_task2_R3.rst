@@ -5,16 +5,8 @@ ECU_Requirement
 General Overview / Document Scope
 *********************************
 
-
-
-
-
 Document Scope
 **************
-
-
-
-
 
 .. sw_req::
    :Identifier: 629016
@@ -26,10 +18,6 @@ specification>
 Document Specific Glossary
 **************************
 
-
-
-
-
 .. sw_req::
    :Identifier: 629013
    :Attribute Type: Information
@@ -39,28 +27,18 @@ Document Specific Glossary
 System Requirements
 *******************
 
-
-
-
-
 .. sw_req::
    :Identifier: 629017
    :Attribute Type: Information
 
 <infos relevant for the complete chapter>
-
 | Note to the template:
-
-| - the example requirements below are independent of each other and are
-
+| \- the example requirements below are independent of each other and
+are
 | showing the different possibilities of the requirements structure
 
 ECU 1st Requirement
 *******************
-
-
-
-
 
 .. sw_req::
    :Status: New/Changed
@@ -70,39 +48,23 @@ ECU 1st Requirement
    :crq: RQONE03587423
 
 <description of the requirement in requirements language>
-
 **VEHICLE_SYSTEM_BEHAVIOUR**
-
 | <Optional: description of desired vehicle behaviour ("development
 target")>
-
 | **CONSTRAINT**
-
 | <Optional: constraints on the solution space for the requirement>
-
 |  **IMPACT**
-
 | <Optional: description of possible cross-functional impact of the
 requirement,
-
 | or impact on other components>
-
 |  **INFO**
-
 | <Optional: additional informations about the requirement:
-
-| - know-how
-
-| - background
-
-| - HW dependencies related to the system requirement
-
-| - internal signals
-
-| - etc>
-
+| \- know-how
+| \- background
+| \- HW dependencies related to the system requirement
+| \- internal signals
+| \- etc>
 |  **ASSUMPTION**
-
 | <Optional: assumptions on the requirement>
 
 .. verify::
@@ -113,10 +75,6 @@ requirement,
 
 System Non Functional Requirements
 **********************************
-
-
-
-
 
 .. sw_req::
    :Status: New/Changed
