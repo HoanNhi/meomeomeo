@@ -33,8 +33,10 @@ System Requirements
 
 <infos relevant for the complete chapter>
 | Note to the template:
+
 | \- the example requirements below are independent of each other and
 are
+
 | showing the different possibilities of the requirements structure
 
 ECU 1st Requirement
