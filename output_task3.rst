@@ -45,26 +45,28 @@ ECU 1st Requirement
    :artifact_type: MO_FUNC_REQ
    :crq: RQONE03587423
 
-.. <description of the requirement in requirements language>::
-.. ::
-..  **VEHICLE_SYSTEM_BEHAVIOUR**  ::
-.. |<Optional: description of desired vehicle behaviour ("development target")>  ::
-.. |**CONSTRAINT**  ::
-.. |<Optional: constraints on the solution space for the requirement>  ::
-.. | **IMPACT**  ::
-.. |<Optional: description of possible cross-functional impact of the requirement,::
-.. |or impact on other components>  ::
-.. | **INFO**  ::
-.. |<Optional: additional informations about the requirement:  ::
-.. | - know-how  ::
-.. | - background  ::
-.. | - HW dependencies related to the system requirement  ::
-.. | - internal signals  ::
-.. | - etc>  ::
-.. | **ASSUMPTION**  ::
-.. |<Optional: assumptions on the requirement>::
-.. ::
-.. ::
+<description of the requirement in requirements language>
+
+ **VEHICLE_SYSTEM_BEHAVIOUR**
+|<Optional: description of desired vehicle behaviour ("development
+target")>
+|**CONSTRAINT**
+|<Optional: constraints on the solution space for the requirement>
+| **IMPACT**
+|<Optional: description of possible cross-functional impact of the
+requirement,
+|or impact on other components>
+| **INFO**
+|<Optional: additional informations about the requirement:
+| - know-how
+| - background
+| - HW dependencies related to the system requirement
+| - internal signals
+| - etc>
+| **ASSUMPTION**
+|<Optional: assumptions on the requirement>
+
+
 
 .. verify::
 
@@ -82,9 +84,9 @@ System Non Fonctional Requirements
    :artifact_type: MO_NON_FUNC_REQ
    :crq: RQONE03587423
 
-.. <description of the non functional requirement in requirements language>::
-.. ::
-.. ::
+<description of the non functional requirement in requirements language>
+
+
 
 .. verify::
 
